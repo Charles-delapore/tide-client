@@ -1,0 +1,6 @@
+station_name,uhslc_id,time,sea_level,quality
+,,UTC,millimeters,
+Pohnpei,1,2025-12-01T12:00:00Z,942,3
+Tarawa,2,2025-12-01T12:00:00Z,1774,3
+Baltra,3,2025-12-01T12:00:00Z,1916,3
+Nauru,4,2025-12-01T12:00:00Z,1540,3

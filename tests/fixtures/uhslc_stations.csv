@@ -1,0 +1,5 @@
+station_name,uhslc_id,latitude,longitude,station_country,reference_datum,gloss_id
+,,degrees_north,degrees_east,,,
+Honolulu,57,21.3067,202.1333,United States of America,station zero,108
+Nawiliwili,58,21.9667,200.65,United States of America,station zero,NaN
+Pago Pago,56,-14.2833,189.3167,American Samoa,station zero,144
